@@ -82,7 +82,6 @@ All screenshots of the deployment steps are available in the **`screenshots`** f
   - MQ broker endpoint  
   - ElastiCache endpoint  
 - Built final `.war` file using Maven  
-- Uploaded to S3 (optional)  
 
 ### Step 7: SSL & CDN Configuration
 - Created SSL certificate via AWS ACM for domain (e.g., `app.example.com`)  
